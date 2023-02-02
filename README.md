@@ -1,7 +1,7 @@
 # Product Preview Card
 
 Projeto feito em React JS, Sass, Grid e Flexbox.
-Uma página simples de um cartão com informações de um produto tanto no tamanho web quanto no tamanho mobile.
+Uma página simples de um cartão com informações de um produto tanto no tamanho desktop quanto no tamanho mobile.
 
 ## Comandos
 
